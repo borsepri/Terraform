@@ -7,9 +7,9 @@ terraform {
     }
   }
   cloud {
-    organization = "CloudQuickLabs"
+    organization = "priLearn_Terraform"
     workspaces {
-      name = "AzureLabs"
+      name = "Terraform"
     }
   }
 }
